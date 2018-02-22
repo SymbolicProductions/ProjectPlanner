@@ -1,0 +1,56 @@
+﻿Shortcuts
+
+[Create Ticket] CTRL + T 
+[Settings] CTRL + C
+[Load File] CTRL + A
+[Save File] CTRL + S
+
+About this product
+
+This product creates no extra folders anywhere, it is not
+connected to the internet and requires no account in order
+to use. It is also free. 
+
+Save files can be kept anywhere and are stored in a simple
+xml format, easy to read and manipulate. We recommend that
+you store save files in the provided folder with the program
+for the sake of consistency but that is entirly up to you.
+
+PATCH NOTES
+
+v1.4 Internal Release version.
+
+- Create the finalized version of the frigging program,
+it took about 4 days to learn visual studio and application
+programming to get to this point. And I feel pretty tired since
+I have been working nonstop, but I know that this program will
+actually help me and hopefully others with their projects and maybe
+even add a feeling of completion when they look at how many tickets
+they have completed!
+
+Amount of issues fixed [1]
+
+v1.5 Interal Release version, patch 01.
+
+- Added a dialog box to remind the user that if they create a new project
+they might lose unsaved data.
+
+- Added multiple simple shortcuts for each form, using escape and enter to
+navigate quicker should now be a complete feature.
+
+- Timer for tickets and global timer are now displayed in hours:minutes:seconds.
+
+- Fixed the issue of creating a subtask with no name.
+
+- Fixed the saving issue of global timer, it now displays global time on loading save.
+
+- Fixed the issue of finishing a ticket would cause either list of tickets to not display.
+
+- Fixed the gruesome issue of when editing an item without rechoosing your category it 
+would automaticly default to unassigned.
+
+- Added the obvious shortcut that I forgot, CTRL + S to save project and CTRL + A to open.
+
+- Updated documentation, removed the part about me. Did not like it.
+
+Amount of issues fixed [9]
